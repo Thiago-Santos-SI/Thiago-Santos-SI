@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+#### I am a full stack developer of the javascript ecosystem. I'm always looking for knowledge, if I don't know, I learn.
+
 <!--
 **Thiago-Santos-SI/Thiago-Santos-SI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
