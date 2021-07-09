@@ -1,7 +1,6 @@
 ### Hi there 👋
 
- I am a full stack developer of the javascript ecosystem. I'm always looking for knowledge, if I don't know, I learn.
-
+code is hard, be kind to yourself.
 
 
 <!--
