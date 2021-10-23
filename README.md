@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-code is hard, be kind to yourself.
+an engineer under construction.
 
 
 <!--
