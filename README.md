@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-an engineer
+try be better
 
 
 <!--
